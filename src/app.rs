@@ -58,6 +58,6 @@ fn NotFound() -> impl IntoView {
     }
 
     view! {
-        <h1>"Not Found"</h1>
+        <h1>"Not Found from g1"</h1>
     }
 }
